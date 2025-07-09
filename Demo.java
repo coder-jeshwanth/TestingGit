@@ -1,5 +1,5 @@
 class Demo {
     void check(){
-        System.out.println("Version 1");
+        System.out.println("Version 2");
     }  
 }
